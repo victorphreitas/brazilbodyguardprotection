@@ -87,7 +87,7 @@ section {
 
 /*TOPO*/
 #home {
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.6)), url(/img/home.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.6)), url("/img/home.png");
     min-height: 100vh;
     background-size: cover;
     background-position: center;
@@ -486,7 +486,7 @@ section {
 /*FIM SERVIÇOS*/
 
 #bodyguard{
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(/img/body.webp);
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url("/img/body.webp");
     
     background-size: cover;
     background-position: center;
@@ -552,7 +552,7 @@ section {
 /*CONTATO*/
 
 #contact{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url(/img/contato-site.webp);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url("/img/contato-site.webp");
     
     background-size: cover;
     background-position: center;
